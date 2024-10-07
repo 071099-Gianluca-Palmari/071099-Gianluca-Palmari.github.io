@@ -11,36 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Applied Mathematics, Scuola Normale Superiore 2022 (2026)
+* M.S.c in Statistical Learning (MASH), Dauphine-ENS 2021-2022 (Second year)
+* M.S.c in Financial Mathematics (ex DEA-Lamberton), Paris-Est-ENPC 2021-2022 (Second year)
+* M.S.c in Applied Mathematics - Advanced Mathematics track, Dauphine-PSL University, 2020-2021 (First year)
+* B.S. in Applied Mathematics, minor in Economics, 2017-2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* April 2022 - October 2022: Quantitative Research Intern
+  * Capital Fund Management / Econophysix Lab
+  * Research work on price formation - Neural calibation of non-linear price impact models
+  * Supervisors: Zoltan Eisler and Iacopo Mastromatteo 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Coding:
+  * Python:
+    * PyTorch
+    * Tensorflow
+    * Numpy
+* Languages
+  * English: Fluent
+  * French: Mother tongue
+  * Italian: Mother tongue
+  * Arabic: Intermediate
+    
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
