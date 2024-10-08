@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Gianluca Palmari"
   pronouns         : # example: "he/his"  
-  bio              : "PhD student specializing in Mathematical Models and Computational Methods for Science and Finance. My research interests include machine learning, time series analysis, and probability theory, with a focus on applying these techniques to quantitative finance, particularly in the area of market microstructure."
+  bio              : "PhD student specializing in Mathematical Models and Computational Methods for Science and Finance."
   location         : "Pisa"
   employer         : "Scuola Normale Superiore"
   uri              : # URL
