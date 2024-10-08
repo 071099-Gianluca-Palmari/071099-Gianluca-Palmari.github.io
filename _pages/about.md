@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Home"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,14 +9,12 @@ redirect_from:
 
 Research interests
 ======
-  Machine learning and 
+  Machine learning and Time series
   ------
   hh
 
-  Machine learning and 
+  Market Microstructure 
   ------ 
-  hh
-
-For more info about the website
-------
-This website has been edited using Academic Pages GitHub repo. More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+About me
+======
+I am currently a Phd student
